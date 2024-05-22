@@ -32,13 +32,13 @@ Future<void> main() async {
   await _requestPermissions();
 
   final savedThemeMode = await AdaptiveTheme.getThemeMode();
+  await initializeService();
 
   var initializationSettingsAndroid = AndroidInitializationSettings('@mipmap/ic_launcher');
   var initializationSettings = InitializationSettings(
     android: initializationSettingsAndroid,
   );
 
-  await initializeService();
 
   bool loggedIn = await UserSession.isLoggedIn();
 
@@ -128,10 +128,16 @@ Future<void> initializeService() async {
 void onStart(ServiceInstance service) async {
   SharedPreferences prefs = await SharedPreferences.getInstance();
   SettingsController settingsController = SettingsController();
-  //await settingsController.calculateSpeeds();
 
-  int intervalInMinutes = prefs.getInt('intervalInMinutes') ?? 60; // default to 60 minutes if not set
+  print("-------------------------------Background service started at: ${DateTime.now()}");
 
+  DateTime now = DateTime.now();
+  bool isTimeInRange = now.hour > 7 || (now.hour == 7 && now.minute >= 45) && now.hour < 18;
+  if (isTimeInRange) {
+    await settingsController.calculateSpeeds();
+  }
+
+  int intervalInMinutes = prefs.getInt('intervalInMinutes') ?? 60;
   Timer.periodic(Duration(minutes: intervalInMinutes), (timer) async {
     bool isSpeedTestEnabled = prefs.getBool('isSpeedTestEnabled') ?? false;
     if (!isSpeedTestEnabled) {
@@ -148,13 +154,14 @@ void onStart(ServiceInstance service) async {
       return;
     }
 
-    await settingsController.calculateSpeeds();
+    print("Running scheduled task at: ${DateTime.now()}");
   });
 
   service.on('stopService').listen((event) {
     service.stopSelf();
   });
 }
+
 
 class MyApp extends StatelessWidget {
   final bool loggedIn;

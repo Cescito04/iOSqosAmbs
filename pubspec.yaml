@@ -20,7 +20,7 @@ dependencies:
   ipwhois:
   flutter_map: ^6.1.0
   flutter_cell_info:
- 
+
 
 
   smooth_page_indicator:

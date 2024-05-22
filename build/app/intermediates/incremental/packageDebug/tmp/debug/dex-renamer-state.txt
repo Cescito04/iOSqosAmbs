@@ -1,4 +1,4 @@
-#Wed May 22 09:16:17 GMT 2024
+#Wed May 22 10:12:54 GMT 2024
 base.0=/Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.2=/Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-0 /Users/abdoulayebocoum/.gradle/caches/transforms-3/1df059c41a28b6fdf9502ca1903d1307/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-1 /Users/abdoulayebocoum/.gradle/caches/transforms-3/556754c0e5b35b3c0e01180d754c0257/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-2 /Users/abdoulayebocoum/.gradle/caches/transforms-3/64a24588c249f1c457d5f33aa58f1aef/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.3-3 /Users/abdoulayebocoum/.gradle/caches/transforms-3/7f8b2ede2a15b8a5d1a9cb293792c69a/transformed/jetified-firebase-common-20.4.3/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 /Users/abdoulayebocoum/.gradle/caches/transforms-3/d997b849cdd3ac8c5d1ec83b72618632/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-5 /Users/abdoulayebocoum/.gradle/caches/transforms-3/dde19023263d450928487554607a3937/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/firebase_core-2.31.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/firebase_core-2.31.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/firebase_core/intermediates/merged_res/release

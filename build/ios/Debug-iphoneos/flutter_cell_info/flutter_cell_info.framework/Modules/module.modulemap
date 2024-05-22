@@ -1,0 +1,6 @@
+framework module flutter_cell_info {
+  umbrella header "flutter_cell_info-umbrella.h"
+
+  export *
+  module * { export * }
+}

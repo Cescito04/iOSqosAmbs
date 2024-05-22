@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477721594915",
+    "project_id": "qosambs-fd8aa",
+    "storage_bucket": "qosambs-fd8aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477721594915:android:c32b77d9e32a0f9aa27596",
+        "android_client_info": {
+          "package_name": "com.example.qosambassadors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM3cVnWk0hywdCgyxLazOZHHpjuqZPTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

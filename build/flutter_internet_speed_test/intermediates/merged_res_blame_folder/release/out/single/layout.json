@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/layout/notification_action_tombstone.xml",
+        "source": "com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/layout/custom_dialog.xml",
+        "source": "com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/layout/notification_template_icon_group.xml",
+        "source": "com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "source": "com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/layout/notification_action.xml",
+        "source": "com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/layout/notification_template_part_time.xml",
+        "source": "com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    }
+]

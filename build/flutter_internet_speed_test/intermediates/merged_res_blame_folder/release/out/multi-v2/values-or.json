@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shaz.plugin.fist.flutter_internet_speed_test-mergeReleaseResources-9:/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/abdoulayebocoum/.gradle/caches/transforms-3/dde19023263d450928487554607a3937/transformed/core-1.6.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-11:/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/abdoulayebocoum/.gradle/caches/transforms-3/dde19023263d450928487554607a3937/transformed/core-1.6.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

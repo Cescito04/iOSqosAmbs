@@ -1,0 +1,12 @@
+com.aledev.network_type_reachability-jetified-window-java-1.0.0-beta04-0 /Users/abdoulayebocoum/.gradle/caches/transforms-3/1df059c41a28b6fdf9502ca1903d1307/transformed/jetified-window-java-1.0.0-beta04/res
+com.aledev.network_type_reachability-jetified-window-1.0.0-beta04-1 /Users/abdoulayebocoum/.gradle/caches/transforms-3/556754c0e5b35b3c0e01180d754c0257/transformed/jetified-window-1.0.0-beta04/res
+com.aledev.network_type_reachability-jetified-annotation-experimental-1.1.0-2 /Users/abdoulayebocoum/.gradle/caches/transforms-3/d997b849cdd3ac8c5d1ec83b72618632/transformed/jetified-annotation-experimental-1.1.0/res
+com.aledev.network_type_reachability-core-1.6.0-3 /Users/abdoulayebocoum/.gradle/caches/transforms-3/dde19023263d450928487554607a3937/transformed/core-1.6.0/res
+com.aledev.network_type_reachability-main-4 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/network_type_reachability-1.3.3/android/src/main/res
+com.aledev.network_type_reachability-release-5 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/network_type_reachability-1.3.3/android/src/release/res
+com.aledev.network_type_reachability-pngs-6 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/network_type_reachability/generated/res/pngs/release
+com.aledev.network_type_reachability-resValues-7 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/network_type_reachability/generated/res/resValues/release
+com.aledev.network_type_reachability-rs-8 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/network_type_reachability/generated/res/rs/release
+com.aledev.network_type_reachability-mergeReleaseResources-9 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/network_type_reachability/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.aledev.network_type_reachability-mergeReleaseResources-10 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/network_type_reachability/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.aledev.network_type_reachability-merged_res-11 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/network_type_reachability/intermediates/merged_res/release

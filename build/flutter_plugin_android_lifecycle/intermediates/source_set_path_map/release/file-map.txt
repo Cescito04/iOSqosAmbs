@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-0 /Users/abdoulayebocoum/.gradle/caches/transforms-3/1df059c41a28b6fdf9502ca1903d1307/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-1 /Users/abdoulayebocoum/.gradle/caches/transforms-3/556754c0e5b35b3c0e01180d754c0257/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-2 /Users/abdoulayebocoum/.gradle/caches/transforms-3/d997b849cdd3ac8c5d1ec83b72618632/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-3 /Users/abdoulayebocoum/.gradle/caches/transforms-3/dde19023263d450928487554607a3937/transformed/core-1.6.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_plugin_android_lifecycle/generated/res/rs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release

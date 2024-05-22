@@ -1,0 +1,13 @@
+com.shaz.plugin.fist.flutter_internet_speed_test-jetified-window-java-1.0.0-beta04-0 /Users/abdoulayebocoum/.gradle/caches/transforms-3/1df059c41a28b6fdf9502ca1903d1307/transformed/jetified-window-java-1.0.0-beta04/res
+com.shaz.plugin.fist.flutter_internet_speed_test-jetified-window-1.0.0-beta04-1 /Users/abdoulayebocoum/.gradle/caches/transforms-3/556754c0e5b35b3c0e01180d754c0257/transformed/jetified-window-1.0.0-beta04/res
+com.shaz.plugin.fist.flutter_internet_speed_test-jetified-annotation-experimental-1.1.0-2 /Users/abdoulayebocoum/.gradle/caches/transforms-3/d997b849cdd3ac8c5d1ec83b72618632/transformed/jetified-annotation-experimental-1.1.0/res
+com.shaz.plugin.fist.flutter_internet_speed_test-core-1.6.0-3 /Users/abdoulayebocoum/.gradle/caches/transforms-3/dde19023263d450928487554607a3937/transformed/core-1.6.0/res
+com.shaz.plugin.fist.flutter_internet_speed_test-main-4 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/flutter_internet_speed_test-1.5.0/android/src/main/res
+com.shaz.plugin.fist.flutter_internet_speed_test-release-5 /Users/abdoulayebocoum/.pub-cache/hosted/pub.dev/flutter_internet_speed_test-1.5.0/android/src/release/res
+com.shaz.plugin.fist.flutter_internet_speed_test-packaged_res-6 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/connectivity_plus/intermediates/packaged_res/release
+com.shaz.plugin.fist.flutter_internet_speed_test-pngs-7 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_internet_speed_test/generated/res/pngs/release
+com.shaz.plugin.fist.flutter_internet_speed_test-resValues-8 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_internet_speed_test/generated/res/resValues/release
+com.shaz.plugin.fist.flutter_internet_speed_test-rs-9 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_internet_speed_test/generated/res/rs/release
+com.shaz.plugin.fist.flutter_internet_speed_test-mergeReleaseResources-10 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_internet_speed_test/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.shaz.plugin.fist.flutter_internet_speed_test-mergeReleaseResources-11 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_internet_speed_test/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.shaz.plugin.fist.flutter_internet_speed_test-merged_res-12 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_internet_speed_test/intermediates/merged_res/release

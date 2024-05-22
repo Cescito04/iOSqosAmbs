@@ -1,0 +1,11 @@
+framework module network_type_reachability {
+  umbrella header "network_type_reachability-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module network_type_reachability.Swift {
+  header "network_type_reachability-Swift.h"
+  requires objc
+}

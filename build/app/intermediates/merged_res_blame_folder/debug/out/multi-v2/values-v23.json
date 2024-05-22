@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.qosambassadors.app-mergeDebugResources-25:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/abdoulayebocoum/.gradle/caches/transforms-3/443e9613cb7486b906e5453cfc9a4e50/transformed/work-runtime-2.8.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

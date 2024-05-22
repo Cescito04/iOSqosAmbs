@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.sumanrajpathak.flutter_cell_info-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.sumanrajpathak.flutter_cell_info-core-1.9.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.sumanrajpathak.flutter_cell_info-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.sumanrajpathak.flutter_cell_info-core-1.9.0-5:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.sumanrajpathak.flutter_cell_info-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.sumanrajpathak.flutter_cell_info-core-1.9.0-5:/layout/notification_template_part_chronometer.xml"
+    }
+]

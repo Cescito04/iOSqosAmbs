@@ -1,0 +1,4 @@
+#Tue May 21 12:25:50 GMT 2024
+base.0=/Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

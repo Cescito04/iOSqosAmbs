@@ -1,0 +1,14 @@
+com.sumanrajpathak.flutter_cell_info-jetified-window-java-1.0.0-beta04-0 /Users/abdoulayebocoum/.gradle/caches/transforms-3/1df059c41a28b6fdf9502ca1903d1307/transformed/jetified-window-java-1.0.0-beta04/res
+com.sumanrajpathak.flutter_cell_info-lifecycle-runtime-2.3.1-1 /Users/abdoulayebocoum/.gradle/caches/transforms-3/52565a99124d1a8c8f048f00753dc161/transformed/lifecycle-runtime-2.3.1/res
+com.sumanrajpathak.flutter_cell_info-jetified-window-1.0.0-beta04-2 /Users/abdoulayebocoum/.gradle/caches/transforms-3/556754c0e5b35b3c0e01180d754c0257/transformed/jetified-window-1.0.0-beta04/res
+com.sumanrajpathak.flutter_cell_info-jetified-core-ktx-1.9.0-3 /Users/abdoulayebocoum/.gradle/caches/transforms-3/b7476715a2e1dcf7c3ce361735c6ad8a/transformed/jetified-core-ktx-1.9.0/res
+com.sumanrajpathak.flutter_cell_info-jetified-annotation-experimental-1.3.0-4 /Users/abdoulayebocoum/.gradle/caches/transforms-3/e22c8abacf34d5b31fe543abf34f72c6/transformed/jetified-annotation-experimental-1.3.0/res
+com.sumanrajpathak.flutter_cell_info-core-1.9.0-5 /Users/abdoulayebocoum/.gradle/caches/transforms-3/e3ae41cf4c39e427c41e79db3c5c3419/transformed/core-1.9.0/res
+com.sumanrajpathak.flutter_cell_info-pngs-6 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_cell_info/generated/res/pngs/release
+com.sumanrajpathak.flutter_cell_info-resValues-7 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_cell_info/generated/res/resValues/release
+com.sumanrajpathak.flutter_cell_info-rs-8 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_cell_info/generated/res/rs/release
+com.sumanrajpathak.flutter_cell_info-mergeReleaseResources-9 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_cell_info/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.sumanrajpathak.flutter_cell_info-mergeReleaseResources-10 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_cell_info/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.sumanrajpathak.flutter_cell_info-merged_res-11 /Users/abdoulayebocoum/Desktop/Projects/qosambassadors-mobile/build/flutter_cell_info/intermediates/merged_res/release
+com.sumanrajpathak.flutter_cell_info-main-12 /Users/abdoulayebocoum/Downloads/flutter_cell_info-main/android/src/main/res
+com.sumanrajpathak.flutter_cell_info-release-13 /Users/abdoulayebocoum/Downloads/flutter_cell_info-main/android/src/release/res
